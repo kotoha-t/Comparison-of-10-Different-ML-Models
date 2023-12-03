@@ -1,4 +1,4 @@
-# Comparison of 10 Different ML P Models
+# Comparison of 10 Different ML Prediction Models
 
 Logistic Regression
 
